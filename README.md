@@ -6,7 +6,6 @@ Gosto muito da parte do front-end, UI, UX e designer no geral.💜</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=1LightHouse1&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-1LightHouse1.vercel.app/api/top-langs/?username=1LightHouse1&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
