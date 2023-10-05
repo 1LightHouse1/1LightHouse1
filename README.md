@@ -13,9 +13,9 @@ Gosto muito da parte do front-end, UI, UX e designer no geral.💜</p>&nbsp;
 
 
 
-## Minhas Skills
+## My Skills
 
-#### Studying in this moment:
+#### I'm currently studying:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -25,7 +25,7 @@ Gosto muito da parte do front-end, UI, UX e designer no geral.💜</p>&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### What i want to learn in the future:
+#### Aiming to study:
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
@@ -43,7 +43,7 @@ Gosto muito da parte do front-end, UI, UX e designer no geral.💜</p>&nbsp;
 ## Contacts:
 
 <div> 
-<a href = "mailto:contato.vini_nascimento1@outlook.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato.vinicius.nas777@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vinicius-nascimento01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
