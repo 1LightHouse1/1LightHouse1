@@ -1,6 +1,3 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/1LightHouse1/1LightHouse1/blob/main/Sem%20título-1.png" />
-&nbsp;&nbsp;&nbsp;
-
 <p align="center">💜 Olá, eu me chamo Vinicius Nascimento, tenho 24 anos e estou no 4 semestre de análise e desenvolvimento de sistemas no Instituto Federal do Paraná.
 Gosto muito da parte do front-end, UI, UX e designer no geral.💜</p>&nbsp;
 
